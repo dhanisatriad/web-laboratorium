@@ -18,4 +18,6 @@ class BarangSeeder extends Seeder
     {
 
     }
+
+
 }
